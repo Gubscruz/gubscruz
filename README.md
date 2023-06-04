@@ -45,6 +45,6 @@ First semester Computer Science at INSPER
 ------
 
 <h2 align='center'>Contact</h2>
-<h3>Linkedin:</h3>https://www.linkedin.com/in/gustavo-cruz-04492b235
-<h3>Email:</h3>gubscruz@gmail.com
+Linkedin: https://www.linkedin.com/in/gustavo-cruz-04492b235
+Email:gubscruz@gmail.com
 
