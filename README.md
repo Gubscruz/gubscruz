@@ -28,6 +28,7 @@ First semester Computer Science at INSPER
         <li>Machine Learning</li>
         <li>Artificial Intelligence</li>
         <li>Web Development</li>
+        <li>Quantum computing</li>
     </ul>
 
 ------
