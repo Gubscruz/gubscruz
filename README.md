@@ -11,6 +11,8 @@
 <h3>Status</h3>
 First semester Computer Science at INSPER
 
+Looking for: Summer/Winter interships (any country)
+
 ------
 
 <h3>Programming Languages</h3>
