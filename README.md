@@ -2,12 +2,6 @@
   About me
 </h1>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gubscruz/snake_animation/master/snake.svg" alt="Snake animation" width="500"/>
-</p>
-
-
 <h3>Status</h3>
 First semester Computer Science at INSPER
 
@@ -50,3 +44,7 @@ Looking for: Summer/Winter interships (any country)
 <h2 align='center'>Contact</h2>
   <h5>Linkedin:  https://www.linkedin.com/in/gustavo-cruz-04492b235</h5>
   <h5>Email:  gubscruz@gmail.com</h5>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gubscruz/snake_animation/master/snake.svg" alt="Snake animation" width="500"/>
+</p>
