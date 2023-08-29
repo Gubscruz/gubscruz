@@ -5,7 +5,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gubscruz&theme=dark&hide_border=false)<br/>
 
 <h3>Status</h3>
-First semester Computer Science at INSPER
+Second semester Computer Science at INSPER
 
 Looking for: Summer/Winter interships (any country)
 
@@ -21,20 +21,26 @@ Looking for: Summer/Winter interships (any country)
 
 ------
 
-<h3>Fields of Interest</h3>
+<h3>Familiar with</h3>
     <ul>
-        <li>Machine Learning</li>
-        <li>Artificial Intelligence</li>
-        <li>Web Development</li>
-        <li>Quantum computing</li>
+        <li>Django</li>
+        <li>Flask</li>
+        <li>SQL</li>
+        <li>Pandas</li>
+        <li>PyGame</li>
+        <li>Matplotlib</li>
     </ul>
 
 ------
 
-<h3>Other Interests</h3>
+<h3>Interests</h3>
     <ul>
         <li>Aerospace Engineering</li>
         <li>Astronomy</li>
+        <li>Machine Learning</li>
+        <li>Artificial Intelligence</li>
+        <li>Web Development</li>
+        <li>Quantum computing</li>
         <li>Any type of scientific research</li>
         <li>Automation</li>
         <li>Physics</li>
