@@ -2,8 +2,6 @@
   About me
 </h1>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gubscruz&theme=dark&hide_border=false)<br/>
-
 <h3>Status</h3>
 Second semester Computer Science at INSPER
 
