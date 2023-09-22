@@ -3,7 +3,7 @@
 </h1>
 
 <h3>Status</h3>
-Second semester Computer Science at INSPER
+Second semester of Computer Science at INSPER
 
 Looking for: Summer/Winter interships (any country)
 
