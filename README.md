@@ -9,12 +9,13 @@ Looking for: Summer/Winter interships (any country)
 
 ------
 
-<h3>Programming Languages</h3>
+<h3>Programming/Markup Languages</h3>
     <ul>
         <li>Python</li>
         <li>HTML</li>
         <li>CSS</li>
         <li>LaTeX</li>
+        <li>Markdown</li>
     </ul>
 
 ------
