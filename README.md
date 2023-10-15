@@ -12,6 +12,9 @@ Looking for: Summer/Winter interships (any country)
 <h3>Programming/Markup Languages</h3>
     <ul>
         <li>Python</li>
+        <li>SQL</li>
+        <li>MyHDL</li>
+        <li>Assembly</li>
         <li>HTML</li>
         <li>CSS</li>
         <li>LaTeX</li>
@@ -24,10 +27,12 @@ Looking for: Summer/Winter interships (any country)
     <ul>
         <li>Django</li>
         <li>Flask</li>
-        <li>SQL</li>
+        <li>SQLite</li>
         <li>Pandas</li>
         <li>PyGame</li>
         <li>Matplotlib</li>
+        <li>Seaborn</li>
+        <li>Scipy</li>
     </ul>
 
 ------
