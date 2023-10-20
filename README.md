@@ -28,6 +28,7 @@ Looking for: Summer/Winter interships (any country)
         <li>Django</li>
         <li>Flask</li>
         <li>SQLite</li>
+        <li>Mongo</li>
         <li>Pandas</li>
         <li>PyGame</li>
         <li>Matplotlib</li>
