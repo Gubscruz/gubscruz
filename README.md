@@ -49,7 +49,8 @@ Looking for: Summer/Winter interships (any country)
         <li>Any type of scientific research</li>
         <li>Automation</li>
         <li>Physics</li>
-        <li>Mathematics</li>    
+        <li>Mathematics</li>
+        <li>Biology</li>
     </ul>
 
 ------
