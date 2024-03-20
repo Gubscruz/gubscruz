@@ -11,6 +11,7 @@ Looking for: Summer/Winter interships (any country)
 
 <h3>Programming/Markup Languages</h3>
     <ul>
+        <li>Java</li>
         <li>Python</li>
         <li>SQL</li>
         <li>MyHDL</li>
@@ -18,39 +19,37 @@ Looking for: Summer/Winter interships (any country)
         <li>HTML</li>
         <li>CSS</li>
         <li>LaTeX</li>
-        <li>Markdown</li>
     </ul>
 
 ------
 
 <h3>Familiar with</h3>
     <ul>
+        <li>SQLite</li>
+        <li>Pandas</li>
+        <li>Scipy</li>
+        <li>OpenCV</li>
+        <li>Selenium</li>
         <li>Django</li>
         <li>Flask</li>
-        <li>SQLite</li>
         <li>Mongo</li>
-        <li>Pandas</li>
         <li>PyGame</li>
-        <li>Matplotlib</li>
-        <li>Seaborn</li>
-        <li>Scipy</li>
     </ul>
 
 ------
 
 <h3>Interests</h3>
     <ul>
-        <li>Aerospace Engineering</li>
-        <li>Astronomy</li>
-        <li>Machine Learning</li>
         <li>Artificial Intelligence</li>
-        <li>Web Development</li>
-        <li>Quantum computing</li>
-        <li>Any type of scientific research</li>
-        <li>Automation</li>
-        <li>Physics</li>
+        <li>Machine Learning</li>
+        <li>Aerospace Engineering</li>
         <li>Mathematics</li>
-        <li>Biology</li>
+        <li>Physics</li>
+        <li>Astronomy</li>
+        <li>Quantum computing</li>
+        <li>Scientific research</li>
+        <li>Automation</li>
+        <li>Computer Vision</li>
     </ul>
 
 ------
