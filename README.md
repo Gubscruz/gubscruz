@@ -14,6 +14,7 @@ Looking for: Summer/Winter interships (any country)
         <li>Java</li>
         <li>Python</li>
         <li>SQL</li>
+        <li>Meta Language (ML)</li>
         <li>MyHDL</li>
         <li>Assembly</li>
         <li>HTML</li>
