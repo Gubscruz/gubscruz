@@ -19,6 +19,7 @@ Looking for: Summer/Winter interships (any country)
         <li>Assembly</li>
         <li>HTML</li>
         <li>CSS</li>
+        <li>JavaScript</li>
         <li>LaTeX</li>
     </ul>
 
@@ -26,6 +27,7 @@ Looking for: Summer/Winter interships (any country)
 
 <h3>Familiar with</h3>
     <ul>
+        <li>React.js</li>
         <li>SQLite</li>
         <li>Pandas</li>
         <li>Scipy</li>
