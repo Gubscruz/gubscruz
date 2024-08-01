@@ -49,7 +49,8 @@ Interests: Finance, AI, ML, Computer vision, Math, STEM, Research, Automation
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gubscruz/gubscruz/output/github-contribution-grid-snake.svg" />
-  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gubscruz&theme=github-dark&hide_border=true&mode=daily&count_private=true" alt="GitHub Streak" /></a>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gubscruz/gubscruz/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+
