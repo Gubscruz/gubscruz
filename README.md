@@ -10,9 +10,9 @@
   
   👨‍💻 I'm currently working in **finance**
   
-  📚 I'm currently learning **Next.js, Typescript, C**
+  📚 I'm currently learning **Next.js, Machine Learning, C**
   
-  💬 Ask me about **Python, React, Firebase, Java...**
+  💬 Ask me about **Python, Firebase, Java...**
   
   🔭 Looking for: Summer/Winter internships (any country)
   
