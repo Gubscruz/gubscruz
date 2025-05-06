@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&center=true&duration=3000&pause=100&color=3EFEFF&width=500&height=70&lines=Hi+There!;I'm+Gustavo+Cruz;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate CS student from Brazil 🇧🇷</h3>
+<h3 align="center">CS student from Brazil 🇧🇷</h3>
 
 </br>
 
@@ -10,11 +10,11 @@
   
   👨‍💻 I'm currently working in **finance**
   
-  📚 I'm currently learning **Next.js, Machine Learning, C**
+  📚 I'm currently learning **React, Machine Learning, C, Data Engineering**
   
-  💬 Ask me about **Python, Firebase, Java...**
+  💬 Ask me about **Machine Learning, Data Science, Python...**
   
-  🔭 Looking for: Summer/Winter internships (any country)
+  🔭 Looking for: Summer/Winter internships in ML related fields (any country)
   
 </div>
 
@@ -33,13 +33,13 @@
 </br>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,matlab,latex,firebase,mongodb,sqlite" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flask,django,spring,vscode,github,vercel,postman,opencv,sklearn,selenium" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,latex,firebase,mongodb,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,flask,django,spring,sklearn,selenium" /><br>
 </div>
 <br>
 
 <div align="center">
-Other skills: Meta Language (ML), Assembly, VHDL, H2 Database
+Other skills: Meta Language, Assembly, VHDL, M&A, Financial Maths
 <br>
 Interests: Finance, AI, ML, Computer vision, Math, STEM, Research, Automation
 </div>
